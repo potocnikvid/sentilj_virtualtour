@@ -6,8 +6,8 @@
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://maps.app.goo.gl/Mnjz1BYr7ZnC1cPv6
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://maps.app.goo.gl/Mnjz1BYr7ZnC1cPv6
 LinkBehaviour_B6E186A9_282D_92D2_41B9_45561B84A966.source = https://www.facebook.com/obcina.sentilj.uradna
-LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.obcina-tabor.si/
-LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.obcina-tabor.si/
+LinkBehaviour_403F967A_591C_76E8_41D2_5EEE655E0ED7.source = https://www.visitsentilj.si/
+LinkBehaviour_409488FD_5924_FBE8_4180_0303E8233956.source = https://www.visitsentilj.si/
 
 ## Media
 
